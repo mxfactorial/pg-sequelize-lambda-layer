@@ -1,0 +1,13 @@
+{
+  "name": "pg-sequelize-lambda-layer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mxfactorial/pg-sequelize-lambda-layer.git",
+  "author": "max funk <mxfactorial@users.noreply.github.com>",
+  "license": "mit",
+  "private": true,
+  "dependencies": {
+    "pg": "^7.14.0",
+    "sequelize": "^5.21.2"
+  }
+}
